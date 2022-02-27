@@ -1,7 +1,6 @@
 # 2022年学习日志
 ### 第5期
-* [@DocumentList](https://github.com/DocumentList): [SASS 常用功能](https://juejin.cn/post/7067475637711142919)
-* [@DocumentList](https://github.com/DocumentList): [BFC可以解决哪些问题](https://juejin.cn/post/7067106653551722503)
+* [@DocumentList](https://github.com/DocumentList): ①：[SASS 常用功能](https://juejin.cn/post/7067475637711142919) ；②：[BFC可以解决哪些问题](https://juejin.cn/post/7067106653551722503)
 ### 第4期
 * [@sindrilin](https://github.com/sindrilin): [2022-2-18](https://github.com/sindrilin/studyNotes/blob/master/2022-2-18.md)
 * [@DocumentList](https://github.com/DocumentList): [Vue中 v-if 和v-for 指令优先级问题](https://blog.csdn.net/qq_40259123/article/details/122987548?spm=1001.2014.3001.5501)
