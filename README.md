@@ -1,6 +1,6 @@
 # 2022年学习日志
 ### 第6期
-* [@DocumentList](https://github.com/DocumentList): [jJavaScript的7种继承方式](https://juejin.cn/post/7070499604457848862) ；
+* [@DocumentList](https://github.com/DocumentList): [JavaScript的7种继承方式](https://juejin.cn/post/7070499604457848862) ；
 ### 第5期
 * [@DocumentList](https://github.com/DocumentList): ①：[SASS 常用功能](https://juejin.cn/post/7067475637711142919) ；②：[BFC可以解决哪些问题](https://juejin.cn/post/7067106653551722503)
 * [@simon](https://github.com/simon9211): [OC对象结构](https://fresh-sunfish-65b.notion.site/9f727317f0494720a54ea3ef76406861)
