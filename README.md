@@ -1,6 +1,8 @@
 # 2022年学习日志
-### 第7期
+### 第8期
 * [@DocumentList](https://github.com/DocumentList): [.sync 修饰符的使用](https://juejin.cn/post/7075698447076032525) ；
+### 第7期
+* [@DocumentList](https://github.com/DocumentList): [关于webpack 知识点总结](https://juejin.cn/post/7071978525133275166)  ；
 ### 第6期
 * [@DocumentList](https://github.com/DocumentList): [JavaScript的7种继承方式](https://juejin.cn/post/7070499604457848862) ；
 ### 第5期
